@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Binary Search Tree - Hamza Gunes 29/12/2024
+// Hamza Gunes - 29/12/2024 - Binary Search Tree.
 
 struct Tree{
 	
